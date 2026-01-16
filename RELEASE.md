@@ -20,3 +20,5 @@ tracking Argo CD OSS release v0.11.0-rc1
 
 tracking Argo CD OSS release v0.11.0-rc2
 
+tracking Argo CD OSS release v0.11.0-rc3
+
